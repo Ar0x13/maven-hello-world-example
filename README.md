@@ -2,7 +2,7 @@
 
 # Generate Hello World maven project:
 
-mvn archetype:generate -DgroupId=com.vogella.build.maven.java \
--DartifactId=com.vogella.build.maven.java  \
+mvn archetype:generate -DgroupId=test.project.build.maven.java \
+-DartifactId=home.project.build.maven.java \
 -DarchetypeArtifactId=maven-archetype-quickstart \
 -DinteractiveMode=false
