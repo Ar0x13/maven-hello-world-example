@@ -1,4 +1,3 @@
-# maven-hello-world-example
 # Simple java app example with maven build
 
 # Generate Hello World maven project:
